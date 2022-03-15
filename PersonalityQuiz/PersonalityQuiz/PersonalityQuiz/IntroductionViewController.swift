@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  PersonalityQuiz
 //
-//  Created by Segun on 14/3/22.
-//  Copyright © 2022 Segun. All rights reserved.
+//  Created by segun Ajibade on 3/14/22.
 
 import UIKit
 
