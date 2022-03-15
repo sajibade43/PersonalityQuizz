@@ -2,7 +2,7 @@
 //  QuestionData.swift
 //  PersonalityQuiz
 //
-//  Created by segun Ajibade on 14/3/22.
+//  Created by segun Ajibade on 3/14/22.
 
 import Foundation
 
