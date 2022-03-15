@@ -1,10 +1,8 @@
 //
 //  QuestionData.swift
-//  AppDelegate.swift
 //  PersonalityQuiz
 //
-//  Created by Segun on 14/3/22.
-//  Copyright © 2022 Segun. All rights reserved.
+//  Created by segun Ajibade on 14/3/22.
 
 import Foundation
 
