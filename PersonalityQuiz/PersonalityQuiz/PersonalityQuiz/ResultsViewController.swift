@@ -1,10 +1,9 @@
 //
 //  ResultsViewController.swift
-//  AppDelegate.swift
 //  PersonalityQuiz
 //
-//  Created by Segun on 14/3/22.
-//  Copyright © 2022 Segun. All rights reserved.
+//  Created by segun Ajibade on 3/14/22.
+
 
 import UIKit
 
@@ -44,15 +43,5 @@ class ResultsViewController: UIViewController {
         resultDefinitionLabel.text = mostCommonAnswer.definition
         
     }
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }
